@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennishermann
 - 👀 I’m interested in all kind of stuff 
-- 🌱 I’m currently studying compuer science at LMU
+- 🌱 I’m currently studying compuer science @ TUM
 - 📫 How to reach me dennishermann@dennishermann.de
 
 <!---
